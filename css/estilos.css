@@ -1,0 +1,14 @@
+.p {
+    color: aqua;
+}
+
+h1 {
+    font-size: large;
+    color: chartreuse;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+body{
+    background-color: black;
+}
